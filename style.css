@@ -1,0 +1,28 @@
+.main-page{ 
+    color: blue;
+    text-align: center;
+}
+.history{color: blue;
+background-color: yellow;
+border: 3px solid darkred;
+padding: 30px;
+
+}
+
+.one{color: red;}
+.opys {color: green;}
+.two{color:red;}
+.three{color: blueviolet;}
+.text{background-color: aquamarine;
+line-height: 1.5;
+font-weight: 500;
+}
+.link{
+    display: block;
+    vertical-align: middle;
+    border: 1px solid #000;
+    width: 150px;
+    padding: 5px;
+    background-color: aqua;
+
+}
